@@ -1,0 +1,16 @@
+{
+  "name": "curso-designpatterns-typescript",
+  "version": "1.0.0",
+  "description": "Curso de Design Patterns usando Typescript ministrado na Udemy pela Hcode Treinamentos.",
+  "scripts": {
+    "dev": "ts-node-dev --respawn --transpile-only ./src/index.ts"
+  },
+  "keywords": [],
+  "author": "Yuri Miranda Fialho",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^15.0.2",
+    "ts-node-dev": "^1.1.6",
+    "typescript": "^4.2.4"
+  }
+}
